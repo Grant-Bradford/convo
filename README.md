@@ -341,3 +341,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
   <a href="https://github.com/Grant-Bradford/convo"><b>GitHub</b></a> ·
   <a href="https://robinhoodchain.blockscout.com"><b>Explorer</b></a>
 </p>
+
+- fix: snapshot indentation + bump size limits
