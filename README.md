@@ -343,3 +343,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 </p>
 
 - fix: snapshot indentation + bump size limits
+
+- fix: make fillTransaction meta optional, add balance diff test for dex swap + transfer
