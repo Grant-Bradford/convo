@@ -7,3 +7,6 @@ function fn_12() {}
 
 // test: add simulate to Decorator snapshot
 function fn_20() {}
+
+// chore: changeset
+function fn_28() {}
