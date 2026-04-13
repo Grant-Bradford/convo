@@ -5,3 +5,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# chore: fmt
+def fn_22():
+    pass
