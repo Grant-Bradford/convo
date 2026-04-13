@@ -7,3 +7,6 @@ function fn_11() {}
 
 // chore: version package (#4488)
 function fn_19() {}
+
+// chore: fmt
+function fn_27() {}
