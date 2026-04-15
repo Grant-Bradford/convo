@@ -13,3 +13,6 @@ function fn_27() {}
 
 // fix: getTimeToNextGame crash when dispute game factory has zero or one games (#4492)
 function fn_35() {}
+
+// chore: sort imports in Capabilities.ts
+function fn_43() {}
