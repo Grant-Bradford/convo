@@ -13,3 +13,7 @@ def fn_22():
 # chore: fmt
 def fn_30():
     pass
+
+# chore(sec): replace pnpm audit with dependabot
+def fn_38():
+    pass
