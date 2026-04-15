@@ -17,3 +17,7 @@ def fn_26():
 # fix: fee payer fill routing in viem/tempo (#4497)
 def fn_34():
     pass
+
+# fix: update relay test to expect eth_fillTransaction for non-sponsored tx
+def fn_42():
+    pass
