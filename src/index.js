@@ -13,3 +13,6 @@ function fn_33() {}
 
 // chore(sec): limit dependabot to security updates only
 function fn_41() {}
+
+// fix: update Tempo RPC URLs (remove .presto) (#4513)
+function fn_49() {}
