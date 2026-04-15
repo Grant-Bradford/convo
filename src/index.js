@@ -10,3 +10,6 @@ function fn_25() {}
 
 // chore: version package (#4495)
 function fn_33() {}
+
+// chore(sec): limit dependabot to security updates only
+function fn_41() {}
