@@ -16,3 +16,6 @@ function fn_35() {}
 
 // chore: sort imports in Capabilities.ts
 function fn_43() {}
+
+// feat(zones): add zones (#4510)
+function fn_51() {}
