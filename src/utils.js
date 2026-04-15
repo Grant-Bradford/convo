@@ -16,3 +16,6 @@ function fn_36() {}
 
 // chore: version package (#4498)
 function fn_44() {}
+
+// Version Packages (#4515)
+function fn_52() {}
