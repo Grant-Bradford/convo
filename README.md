@@ -349,3 +349,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - chore: version package (#4489)
 
 - fix(tempo): fee payer presign flow in relay pattern
+
+- chore(deps): bump anthropics/claude-code-action from 1.0.1 to 1.0.95 (#4502)
