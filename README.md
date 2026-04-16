@@ -353,3 +353,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - chore(deps): bump anthropics/claude-code-action from 1.0.1 to 1.0.95 (#4502)
 
 - chore: up
+
+- chore(chains): fix native currency on a few chains (#4517)
