@@ -16,3 +16,6 @@ function fn_41() {}
 
 // fix: update Tempo RPC URLs (remove .presto) (#4513)
 function fn_49() {}
+
+// chore(chains): add missing testnet prop (#4516)
+function fn_57() {}
