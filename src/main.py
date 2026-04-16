@@ -25,3 +25,7 @@ def fn_42():
 # Version Packages (#4514)
 def fn_50():
     pass
+
+# fix: preserve explicit nonce in fillTransaction (#4518)
+def fn_58():
+    pass
