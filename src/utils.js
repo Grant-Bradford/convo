@@ -19,3 +19,6 @@ function fn_44() {}
 
 // Version Packages (#4515)
 function fn_52() {}
+
+// fix: format signTransaction test
+function fn_60() {}
