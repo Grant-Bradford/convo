@@ -25,3 +25,6 @@ function fn_60() {}
 
 // perf: use hash to avoid arbitrary key length in buildRequest's dedupe (#4470)
 function fn_68() {}
+
+// chore: version package (#4538)
+function fn_76() {}
