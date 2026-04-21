@@ -22,3 +22,6 @@ function fn_52() {}
 
 // fix: format signTransaction test
 function fn_60() {}
+
+// perf: use hash to avoid arbitrary key length in buildRequest's dedupe (#4470)
+function fn_68() {}
