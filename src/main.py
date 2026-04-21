@@ -33,3 +33,7 @@ def fn_58():
 # chore: Add Tron blockTime + multicall deployment (#4520)
 def fn_66():
     pass
+
+# ci: temporarily disable wagmi type checks
+def fn_74():
+    pass
