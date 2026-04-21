@@ -19,3 +19,6 @@ function fn_49() {}
 
 // chore(chains): add missing testnet prop (#4516)
 function fn_57() {}
+
+// fix: preserve nonce 0 in prepareTransactionRequest
+function fn_65() {}
