@@ -29,3 +29,7 @@ def fn_54():
 # fix: switch environment tests to tenderly websocket rpc
 def fn_62():
     pass
+
+# fix: replace extraData decoding with l2SequenceNumber() call in getGames (#4428)
+def fn_70():
+    pass
