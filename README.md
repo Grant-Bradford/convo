@@ -357,3 +357,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - chore(chains): fix native currency on a few chains (#4517)
 
 - fix(chains): preserve OP predeploy contracts on Zircuit (#4526)
+
+- chore: fix biome formatting in contract.test-d.ts
