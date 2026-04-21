@@ -22,3 +22,6 @@ function fn_57() {}
 
 // fix: preserve nonce 0 in prepareTransactionRequest
 function fn_65() {}
+
+// test: update getFeeHistory snapshot
+function fn_73() {}
