@@ -25,3 +25,6 @@ function fn_65() {}
 
 // test: update getFeeHistory snapshot
 function fn_73() {}
+
+// chore: version package (#4539)
+function fn_81() {}
