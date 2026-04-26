@@ -28,3 +28,6 @@ function fn_67() {}
 
 // chore: ox re-exports (#4537)
 function fn_75() {}
+
+// chore: up
+function fn_83() {}
