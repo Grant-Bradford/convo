@@ -37,3 +37,7 @@ def fn_66():
 # ci: temporarily disable wagmi type checks
 def fn_74():
     pass
+
+# ci: add audit back
+def fn_82():
+    pass
