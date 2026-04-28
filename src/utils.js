@@ -28,3 +28,6 @@ function fn_68() {}
 
 // chore: version package (#4538)
 function fn_76() {}
+
+// docs(tempo): align `getRemainingLimit` return type docs (#4552)
+function fn_84() {}
