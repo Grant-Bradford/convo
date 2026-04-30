@@ -361,3 +361,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - chore: fix biome formatting in contract.test-d.ts
 
 - test: update tempo exports snapshot with VirtualAddress and VirtualMaster
+
+- chore: version package (#4560)
