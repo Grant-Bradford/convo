@@ -28,3 +28,6 @@ function fn_73() {}
 
 // chore: version package (#4539)
 function fn_81() {}
+
+// fix: URLs in error meta-messages (#4564)
+function fn_89() {}
