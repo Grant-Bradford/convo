@@ -31,3 +31,6 @@ function fn_76() {}
 
 // docs(tempo): align `getRemainingLimit` return type docs (#4552)
 function fn_84() {}
+
+// test: remove non-deterministic data/result fields from simulateBlocks default snapshot
+function fn_92() {}
