@@ -41,3 +41,7 @@ def fn_74():
 # ci: add audit back
 def fn_82():
     pass
+
+# test: opt utils.test.ts out of global getUrl mock
+def fn_90():
+    pass
