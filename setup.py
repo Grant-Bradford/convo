@@ -41,3 +41,7 @@ def fn_78():
 # feat: handle transaction block timestamps (#4561)
 def fn_86():
     pass
+
+# fix(tempo): preserve keyType/keyId/keyData in formatTransactionRequest (#4567)
+def fn_94():
+    pass
