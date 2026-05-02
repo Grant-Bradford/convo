@@ -363,3 +363,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - test: update tempo exports snapshot with VirtualAddress and VirtualMaster
 
 - chore: version package (#4560)
+
+- feat(tempo): add capabilities to TransactionRequestTempo (#4573)
