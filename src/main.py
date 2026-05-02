@@ -45,3 +45,7 @@ def fn_82():
 # test: opt utils.test.ts out of global getUrl mock
 def fn_90():
     pass
+
+# chore: up
+def fn_98():
+    pass
