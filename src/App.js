@@ -34,3 +34,6 @@ function fn_83() {}
 
 // test: fix biome formatting in utils.test.ts
 function fn_91() {}
+
+// chore: up
+function fn_99() {}
