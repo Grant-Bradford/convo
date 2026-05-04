@@ -34,3 +34,6 @@ function fn_84() {}
 
 // test: remove non-deterministic data/result fields from simulateBlocks default snapshot
 function fn_92() {}
+
+// fix(tempo): encode zone encrypted deposits correctly (#4570)
+function fn_100() {}
