@@ -365,3 +365,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - chore: version package (#4560)
 
 - feat(tempo): add capabilities to TransactionRequestTempo (#4573)
+
+- chore: version package (#4577)
