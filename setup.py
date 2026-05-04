@@ -45,3 +45,7 @@ def fn_86():
 # fix(tempo): preserve keyType/keyId/keyData in formatTransactionRequest (#4567)
 def fn_94():
     pass
+
+# chore: deprecate Status Network Sepolia (#4533)
+def fn_102():
+    pass
