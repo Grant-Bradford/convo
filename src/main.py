@@ -49,3 +49,7 @@ def fn_90():
 # chore: up
 def fn_98():
     pass
+
+# chore: biome auto-fix duplicate export declarations
+def fn_106():
+    pass
