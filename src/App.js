@@ -37,3 +37,6 @@ function fn_91() {}
 
 // chore: up
 function fn_99() {}
+
+// chore: inline @deprecated on statusSepolia exports
+function fn_107() {}
