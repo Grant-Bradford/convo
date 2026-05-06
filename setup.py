@@ -49,3 +49,7 @@ def fn_94():
 # chore: deprecate Status Network Sepolia (#4533)
 def fn_102():
     pass
+
+# chore: snaps
+def fn_110():
+    pass
