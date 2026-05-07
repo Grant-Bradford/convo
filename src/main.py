@@ -53,3 +53,7 @@ def fn_98():
 # chore: biome auto-fix duplicate export declarations
 def fn_106():
     pass
+
+# docs: use accounts Provider in wallet examples
+def fn_114():
+    pass
