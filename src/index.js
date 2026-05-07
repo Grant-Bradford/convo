@@ -37,3 +37,6 @@ function fn_97() {}
 
 // types: add tempo virtual address capability (#4579)
 function fn_105() {}
+
+// chore: version package (#4587)
+function fn_113() {}
