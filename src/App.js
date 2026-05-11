@@ -40,3 +40,6 @@ function fn_99() {}
 
 // chore: inline @deprecated on statusSepolia exports
 function fn_107() {}
+
+// feat: abort signal (#4584)
+function fn_115() {}
