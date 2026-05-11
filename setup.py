@@ -53,3 +53,7 @@ def fn_102():
 # chore: snaps
 def fn_110():
     pass
+
+# chore: bump anvil version to v1.7.2 in tests
+def fn_118():
+    pass
