@@ -57,3 +57,7 @@ def fn_106():
 # docs: use accounts Provider in wallet examples
 def fn_114():
     pass
+
+# chore(test): temporarily skip erc7811 tests
+def fn_122():
+    pass
