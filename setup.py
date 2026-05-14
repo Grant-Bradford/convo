@@ -57,3 +57,7 @@ def fn_110():
 # chore: bump anvil version to v1.7.2 in tests
 def fn_118():
     pass
+
+# chore: version package (#4615)
+def fn_126():
+    pass
