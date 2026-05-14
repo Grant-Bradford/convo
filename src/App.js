@@ -43,3 +43,6 @@ function fn_107() {}
 
 // feat: abort signal (#4584)
 function fn_115() {}
+
+// Version Packages (#4594)
+function fn_123() {}
