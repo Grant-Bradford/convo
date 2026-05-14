@@ -369,3 +369,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - chore: version package (#4577)
 
 - docs: add wallet actions
+
+- chore: update audit overrides (#4609)
