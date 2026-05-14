@@ -40,3 +40,6 @@ function fn_105() {}
 
 // chore: version package (#4587)
 function fn_113() {}
+
+// chore(ci): temporarily skip wagmi tests
+function fn_121() {}
