@@ -46,3 +46,6 @@ function fn_116() {}
 
 // fix(tempo): use 2-byte length hint for WebAuthn keyData instead of 1400-byte blob (#4614)
 function fn_124() {}
+
+// chore: version package (#4619)
+function fn_132() {}
