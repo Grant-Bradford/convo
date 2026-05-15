@@ -61,3 +61,7 @@ def fn_114():
 # chore(test): temporarily skip erc7811 tests
 def fn_122():
     pass
+
+# refactor(tempo): rename `wallet.send` to `wallet.transfer` with editable union
+def fn_130():
+    pass
