@@ -46,3 +46,6 @@ function fn_115() {}
 
 // Version Packages (#4594)
 function fn_123() {}
+
+// chore: format wallet.test.ts
+function fn_131() {}
