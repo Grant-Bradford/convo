@@ -43,3 +43,6 @@ function fn_113() {}
 
 // chore(ci): temporarily skip wagmi tests
 function fn_121() {}
+
+// test: stabilize fallback rankTransports custom ping test
+function fn_129() {}
