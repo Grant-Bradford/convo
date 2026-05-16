@@ -61,3 +61,7 @@ def fn_118():
 # chore: version package (#4615)
 def fn_126():
     pass
+
+# fix(tempo): preserve feeToken on broadcast envelope once fee payer has signed (#4622)
+def fn_134():
+    pass
