@@ -373,3 +373,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - chore: update audit overrides (#4609)
 
 - test: skip flaky verifiable withdrawal test
+
+- feat: add CCIP-Read Tunneling (#4551)
