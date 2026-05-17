@@ -55,3 +55,6 @@ function fn_140() {}
 
 // feat: add Tempo fee token validation (#4590)
 function fn_148() {}
+
+// feat: support EIP-1898 block identifiers
+function fn_156() {}
