@@ -73,3 +73,7 @@ def fn_138():
 # fix(zksync): reject priority type on request path (#4591)
 def fn_146():
     pass
+
+# fix: do not reconnect on intentional socket close
+def fn_154():
+    pass
