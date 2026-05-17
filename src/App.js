@@ -49,3 +49,6 @@ function fn_123() {}
 
 // chore: format wallet.test.ts
 function fn_131() {}
+
+// Add MIZUHIKI Testnet Awaji chain (#4620)
+function fn_139() {}
