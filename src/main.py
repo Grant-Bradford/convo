@@ -65,3 +65,7 @@ def fn_122():
 # refactor(tempo): rename `wallet.send` to `wallet.transfer` with editable union
 def fn_130():
     pass
+
+# feat(chains): add Sentrix Chain mainnet (7119) and testnet (7120) (#4603)
+def fn_138():
+    pass
