@@ -69,3 +69,7 @@ def fn_130():
 # feat(chains): add Sentrix Chain mainnet (7119) and testnet (7120) (#4603)
 def fn_138():
     pass
+
+# fix(zksync): reject priority type on request path (#4591)
+def fn_146():
+    pass
