@@ -52,3 +52,6 @@ function fn_132() {}
 
 // fix(chains): build explorer api requests with URL params (#4625)
 function fn_140() {}
+
+// feat: add Tempo fee token validation (#4590)
+function fn_148() {}
