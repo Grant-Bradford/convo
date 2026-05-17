@@ -52,3 +52,6 @@ function fn_131() {}
 
 // Add MIZUHIKI Testnet Awaji chain (#4620)
 function fn_139() {}
+
+// fix: preserve tempo transaction type in prepareTransactionRequest (#4612)
+function fn_147() {}
