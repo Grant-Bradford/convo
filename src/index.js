@@ -46,3 +46,6 @@ function fn_121() {}
 
 // test: stabilize fallback rankTransports custom ping test
 function fn_129() {}
+
+// fix: export ccipReadTunnel and fix test import
+function fn_137() {}
