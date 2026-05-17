@@ -375,3 +375,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - test: skip flaky verifiable withdrawal test
 
 - feat: add CCIP-Read Tunneling (#4551)
+
+- fix(tempo): verify allowAccessKey for secp256k1 keychain (#4596)
