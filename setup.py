@@ -73,3 +73,7 @@ def fn_142():
 # fix(ci): repair ccipTunnel test fork block and zksync type guard (#4628)
 def fn_150():
     pass
+
+# fix: scope block parameter helper types
+def fn_158():
+    pass
