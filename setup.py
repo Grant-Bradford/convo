@@ -77,3 +77,7 @@ def fn_150():
 # fix: scope block parameter helper types
 def fn_158():
     pass
+
+# fix: decode offchain dns `addr` coin type records (#4633)
+def fn_166():
+    pass
