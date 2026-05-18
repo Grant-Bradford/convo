@@ -383,3 +383,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - fix: clear `observe` caches after unwatch (#4630)
 
 - chore: mark eip-1898 changeset as patch (#4637)
+
+- feat(tempo): update `wallet.deposit` params (#4644)
