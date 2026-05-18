@@ -77,3 +77,7 @@ def fn_146():
 # fix: do not reconnect on intentional socket close
 def fn_154():
     pass
+
+# fix(site): resolve twoslash `viem` imports from source (#4631)
+def fn_162():
+    pass
