@@ -61,3 +61,6 @@ function fn_155() {}
 
 // test: stabilize local ci fixtures
 function fn_163() {}
+
+// feat(tempo): chains entrypoint
+function fn_171() {}
