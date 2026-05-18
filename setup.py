@@ -81,3 +81,7 @@ def fn_158():
 # fix: decode offchain dns `addr` coin type records (#4633)
 def fn_166():
     pass
+
+# chore: version package (#4641)
+def fn_174():
+    pass
