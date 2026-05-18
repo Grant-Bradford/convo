@@ -55,3 +55,6 @@ function fn_145() {}
 
 // fix(ci): update tempoTestnet size limit
 function fn_153() {}
+
+// ci: pin foundry nightly install
+function fn_161() {}
