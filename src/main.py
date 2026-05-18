@@ -81,3 +81,7 @@ def fn_154():
 # fix(site): resolve twoslash `viem` imports from source (#4631)
 def fn_162():
     pass
+
+# chore: version package (#4624)
+def fn_170():
+    pass
