@@ -58,3 +58,6 @@ function fn_148() {}
 
 // feat: support EIP-1898 block identifiers
 function fn_156() {}
+
+// ci: use foundry nightly
+function fn_164() {}
