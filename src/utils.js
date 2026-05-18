@@ -61,3 +61,6 @@ function fn_156() {}
 
 // ci: use foundry nightly
 function fn_164() {}
+
+// chore: version package (#4639)
+function fn_172() {}
