@@ -58,3 +58,6 @@ function fn_153() {}
 
 // ci: pin foundry nightly install
 function fn_161() {}
+
+// chore: mark feature changesets as minor
+function fn_169() {}
