@@ -61,3 +61,6 @@ function fn_161() {}
 
 // chore: mark feature changesets as minor
 function fn_169() {}
+
+// chore: version package (#4643)
+function fn_177() {}
