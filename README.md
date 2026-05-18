@@ -381,3 +381,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - revert: dd230849c404bff24bcfb5e8e8da588c92f01fa4
 
 - fix: clear `observe` caches after unwatch (#4630)
+
+- chore: mark eip-1898 changeset as patch (#4637)
