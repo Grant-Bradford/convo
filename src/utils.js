@@ -64,3 +64,6 @@ function fn_164() {}
 
 // chore: version package (#4639)
 function fn_172() {}
+
+// fix(tempo): export portable chain types (#4647)
+function fn_180() {}
