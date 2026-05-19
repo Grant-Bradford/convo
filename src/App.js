@@ -64,3 +64,6 @@ function fn_163() {}
 
 // feat(tempo): chains entrypoint
 function fn_171() {}
+
+// test(tempo): update export snapshot (#4646)
+function fn_179() {}
