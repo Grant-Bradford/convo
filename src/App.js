@@ -67,3 +67,6 @@ function fn_171() {}
 
 // test(tempo): update export snapshot (#4646)
 function fn_179() {}
+
+// fix(somnia): update the somnia chain definitions
+function fn_187() {}
