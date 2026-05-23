@@ -385,3 +385,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - chore: mark eip-1898 changeset as patch (#4637)
 
 - feat(tempo): update `wallet.deposit` params (#4644)
+
+- fix: repair main CI (#4657)
