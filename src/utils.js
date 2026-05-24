@@ -67,3 +67,6 @@ function fn_172() {}
 
 // fix(tempo): export portable chain types (#4647)
 function fn_180() {}
+
+// docs: fix duplicate words
+function fn_188() {}
