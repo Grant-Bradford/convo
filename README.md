@@ -387,3 +387,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - feat(tempo): update `wallet.deposit` params (#4644)
 
 - fix: repair main CI (#4657)
+
+- feat(tempo): add channel actions (#4663)
