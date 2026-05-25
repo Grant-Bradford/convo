@@ -93,3 +93,7 @@ def fn_178():
 # feat: export formatted transaction request extractor
 def fn_186():
     pass
+
+# chore: version package (#4655)
+def fn_194():
+    pass
