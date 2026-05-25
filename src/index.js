@@ -67,3 +67,6 @@ function fn_177() {}
 
 // feat: add `getBlockReceipts` action (#4653)
 function fn_185() {}
+
+// fix: handle `createAccessList` response errors (#4664)
+function fn_193() {}
