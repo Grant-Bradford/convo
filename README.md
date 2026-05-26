@@ -389,3 +389,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - fix: repair main CI (#4657)
 
 - feat(tempo): add channel actions (#4663)
+
+- fix(tempo): raw sign access key vouchers (#4668)
