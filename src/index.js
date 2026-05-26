@@ -70,3 +70,6 @@ function fn_185() {}
 
 // fix: handle `createAccessList` response errors (#4664)
 function fn_193() {}
+
+// feat(tempo): add key authorization manager (#4672)
+function fn_201() {}
