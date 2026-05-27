@@ -73,3 +73,6 @@ function fn_187() {}
 
 // test: loosen `createAccessList` revert assertion (#4665)
 function fn_195() {}
+
+// ci: disable Tempo devnet tests
+function fn_203() {}
