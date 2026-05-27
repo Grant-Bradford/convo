@@ -97,3 +97,7 @@ def fn_190():
 # chore: version package (#4670)
 def fn_198():
     pass
+
+# fix: resolve `tmp` audit and request spy typing (#4677)
+def fn_206():
+    pass
