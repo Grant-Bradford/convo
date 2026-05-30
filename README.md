@@ -393,3 +393,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - fix(tempo): raw sign access key vouchers (#4668)
 
 - chore(tempo): update submodule, regenerate ABIs, add precompile foundations (#4683)
+
+- feat(tempo): admin access key actions (#4689)
