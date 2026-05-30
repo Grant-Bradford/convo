@@ -101,3 +101,7 @@ def fn_194():
 # fix: stabilize local tests
 def fn_202():
     pass
+
+# fix: align `vite` workspace versions (#4686)
+def fn_210():
+    pass
