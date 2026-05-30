@@ -101,3 +101,7 @@ def fn_198():
 # fix: resolve `tmp` audit and request spy typing (#4677)
 def fn_206():
     pass
+
+# refactor(tempo): omit `witness` from KeyAuthorization when undefined (#4692)
+def fn_214():
+    pass
