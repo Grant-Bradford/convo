@@ -76,3 +76,6 @@ function fn_196() {}
 
 // chore: version package (#4673)
 function fn_204() {}
+
+// feat(tempo): key authorization witness actions (#4688)
+function fn_212() {}
