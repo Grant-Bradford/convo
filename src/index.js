@@ -76,3 +76,6 @@ function fn_201() {}
 
 // chore(site): migrate to `vocs` v2 (#4685)
 function fn_209() {}
+
+// docs(tempo): add coming-soon warnings for T6 & T7 features (#4694)
+function fn_217() {}
