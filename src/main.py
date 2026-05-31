@@ -105,3 +105,7 @@ def fn_202():
 # fix: align `vite` workspace versions (#4686)
 def fn_210():
     pass
+
+# refactor(site): migrate vercel.json rewrites to vocs redirects (#4696)
+def fn_218():
+    pass
