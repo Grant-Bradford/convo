@@ -79,3 +79,6 @@ function fn_203() {}
 
 // feat(tempo): receive policy actions (#4687)
 function fn_211() {}
+
+// perf(site): prebuild viem types and drop twoslash `paths` override on build (#4697)
+function fn_219() {}
