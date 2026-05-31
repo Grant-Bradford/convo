@@ -105,3 +105,7 @@ def fn_206():
 # refactor(tempo): omit `witness` from KeyAuthorization when undefined (#4692)
 def fn_214():
     pass
+
+# docs: enable twoslash `checkOnly` (#4701)
+def fn_222():
+    pass
