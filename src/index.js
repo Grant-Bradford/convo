@@ -79,3 +79,6 @@ function fn_209() {}
 
 // docs(tempo): add coming-soon warnings for T6 & T7 features (#4694)
 function fn_217() {}
+
+// chore(site): bump vocs to ^2.0.5, drop cacheDir override (#4698)
+function fn_225() {}
