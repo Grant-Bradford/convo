@@ -395,3 +395,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - chore(tempo): update submodule, regenerate ABIs, add precompile foundations (#4683)
 
 - feat(tempo): admin access key actions (#4689)
+
+- ci: pin foundry to v1.7.1 (#4704)
