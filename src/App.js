@@ -82,3 +82,6 @@ function fn_211() {}
 
 // perf(site): prebuild viem types and drop twoslash `paths` override on build (#4697)
 function fn_219() {}
+
+// feat(chains): add Citrate chain (40204) (#4702)
+function fn_227() {}
