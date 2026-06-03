@@ -109,3 +109,7 @@ def fn_210():
 # refactor(site): migrate vercel.json rewrites to vocs redirects (#4696)
 def fn_218():
     pass
+
+# ci: harden publish workflow (#4674)
+def fn_226():
+    pass
