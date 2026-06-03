@@ -82,3 +82,6 @@ function fn_212() {}
 
 // chore: version package (#4684)
 function fn_220() {}
+
+// feat(chains): add LadyChain (chainId 589) (#4699)
+function fn_228() {}
