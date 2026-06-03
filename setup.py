@@ -109,3 +109,7 @@ def fn_214():
 # docs: enable twoslash `checkOnly` (#4701)
 def fn_222():
     pass
+
+# feat: add VALYGO Smartchain (7771777) and VALYGO NFT (7773777) (#4658)
+def fn_230():
+    pass
