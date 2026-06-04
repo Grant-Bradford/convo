@@ -82,3 +82,6 @@ function fn_217() {}
 
 // chore(site): bump vocs to ^2.0.5, drop cacheDir override (#4698)
 function fn_225() {}
+
+// feat(tempo): infer multisig config from account in prepareTransactionRequest (#4713)
+function fn_233() {}
