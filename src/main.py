@@ -113,3 +113,7 @@ def fn_218():
 # ci: harden publish workflow (#4674)
 def fn_226():
     pass
+
+# chore: bump vitest to fix audit vulnerability (#4715)
+def fn_234():
+    pass
