@@ -397,3 +397,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - feat(tempo): admin access key actions (#4689)
 
 - ci: pin foundry to v1.7.1 (#4704)
+
+- feat(tempo): add native multisig account support (#4710)
