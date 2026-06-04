@@ -85,3 +85,6 @@ function fn_220() {}
 
 // feat(chains): add LadyChain (chainId 589) (#4699)
 function fn_228() {}
+
+// chore: bump chains size-limit budgets (#4717)
+function fn_236() {}
