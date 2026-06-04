@@ -113,3 +113,7 @@ def fn_222():
 # feat: add VALYGO Smartchain (7771777) and VALYGO NFT (7773777) (#4658)
 def fn_230():
     pass
+
+# docs(tempo): use calls in multisig transaction examples (#4716)
+def fn_238():
+    pass
