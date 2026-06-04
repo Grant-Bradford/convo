@@ -85,3 +85,6 @@ function fn_219() {}
 
 // feat(chains): add Citrate chain (40204) (#4702)
 function fn_227() {}
+
+// Update multisig account support in viem/tempo
+function fn_235() {}
