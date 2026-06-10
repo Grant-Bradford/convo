@@ -117,3 +117,7 @@ def fn_226():
 # chore: bump vitest to fix audit vulnerability (#4715)
 def fn_234():
     pass
+
+# Update access key sidebar labels (#4724)
+def fn_242():
+    pass
