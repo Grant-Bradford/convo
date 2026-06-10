@@ -85,3 +85,6 @@ function fn_225() {}
 
 // feat(tempo): infer multisig config from account in prepareTransactionRequest (#4713)
 function fn_233() {}
+
+// Update access key docs (#4723)
+function fn_241() {}
