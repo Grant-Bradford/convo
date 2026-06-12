@@ -88,3 +88,6 @@ function fn_227() {}
 
 // Update multisig account support in viem/tempo
 function fn_235() {}
+
+// feat: add generated tempo selectors (#4729)
+function fn_243() {}
