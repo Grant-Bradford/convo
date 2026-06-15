@@ -88,3 +88,6 @@ function fn_228() {}
 
 // chore: bump chains size-limit budgets (#4717)
 function fn_236() {}
+
+// feat: make Monadscan the default Monad explorer (#4728)
+function fn_244() {}
