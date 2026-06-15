@@ -117,3 +117,7 @@ def fn_230():
 # docs(tempo): use calls in multisig transaction examples (#4716)
 def fn_238():
     pass
+
+# fix: update estimateUserOperationGas.ts (#4727)
+def fn_246():
+    pass
