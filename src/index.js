@@ -88,3 +88,6 @@ function fn_233() {}
 
 // Update access key docs (#4723)
 function fn_241() {}
+
+// docs: add Arc to chain examples (#4735)
+function fn_249() {}
