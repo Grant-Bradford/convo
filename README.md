@@ -401,3 +401,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - feat(tempo): add native multisig account support (#4710)
 
 - chore: version package (#4719)
+
+- chore: update dependency audit overrides (#4736)
