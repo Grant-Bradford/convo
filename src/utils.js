@@ -91,3 +91,6 @@ function fn_236() {}
 
 // feat: make Monadscan the default Monad explorer (#4728)
 function fn_244() {}
+
+// fix: keep changesets compatible with `js-yaml` override (#4746)
+function fn_252() {}
