@@ -91,3 +91,6 @@ function fn_235() {}
 
 // feat: add generated tempo selectors (#4729)
 function fn_243() {}
+
+// docs: add Deno to install instructions (#4744)
+function fn_251() {}
