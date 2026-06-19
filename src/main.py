@@ -121,3 +121,7 @@ def fn_234():
 # Update access key sidebar labels (#4724)
 def fn_242():
     pass
+
+# feat(tempo): attach default chain via tempoActions() (#4745)
+def fn_250():
+    pass
