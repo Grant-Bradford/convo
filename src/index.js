@@ -91,3 +91,6 @@ function fn_241() {}
 
 // docs: add Arc to chain examples (#4735)
 function fn_249() {}
+
+// fix: stabilize post-merge ci (#4750)
+function fn_257() {}
