@@ -121,3 +121,7 @@ def fn_238():
 # fix: update estimateUserOperationGas.ts (#4727)
 def fn_246():
     pass
+
+# revert: "feat(tempo): attach default chain via tempoActions()" (#4747)
+def fn_254():
+    pass
