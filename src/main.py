@@ -125,3 +125,7 @@ def fn_242():
 # feat(tempo): attach default chain via tempoActions() (#4745)
 def fn_250():
     pass
+
+# docs(tempo): remove t6 launch labels (#4757)
+def fn_258():
+    pass
