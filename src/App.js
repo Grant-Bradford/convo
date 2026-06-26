@@ -94,3 +94,6 @@ function fn_243() {}
 
 // docs: add Deno to install instructions (#4744)
 function fn_251() {}
+
+// feat(chains): add BattleChain Mainnet
+function fn_259() {}
