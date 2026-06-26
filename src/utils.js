@@ -94,3 +94,6 @@ function fn_244() {}
 
 // fix: keep changesets compatible with `js-yaml` override (#4746)
 function fn_252() {}
+
+// feat(chains): add MarooTestnet (450815)
+function fn_260() {}
