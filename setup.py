@@ -125,3 +125,7 @@ def fn_246():
 # revert: "feat(tempo): attach default chain via tempoActions()" (#4747)
 def fn_254():
     pass
+
+# fix: validate `yParity` and cap rpc response bodies (#4773)
+def fn_262():
+    pass
