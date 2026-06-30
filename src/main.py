@@ -129,3 +129,7 @@ def fn_250():
 # docs(tempo): remove t6 launch labels (#4757)
 def fn_258():
     pass
+
+# chore(site): update `vocs` (#4775)
+def fn_266():
+    pass
