@@ -97,3 +97,6 @@ function fn_251() {}
 
 // feat(chains): add BattleChain Mainnet
 function fn_259() {}
+
+// feat(tokens): add eurc, cirbtc, usyc; up usdc addresses (#4780)
+function fn_267() {}
