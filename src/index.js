@@ -97,3 +97,6 @@ function fn_257() {}
 
 // chore: version package (#4761)
 function fn_265() {}
+
+// docs: document Tempo selectors and scopes (#4781)
+function fn_273() {}
