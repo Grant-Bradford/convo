@@ -407,3 +407,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - chore: version package (#4749)
 
 - feat: add `viem/tokens` entrypoint (#4767)
+
+- fix(tempo): add `storageCredits` selector map (#4789)
