@@ -133,3 +133,7 @@ def fn_262():
 # Add Tempo Storage Credits precompile exports (#4784)
 def fn_270():
     pass
+
+# feat(tempo): add encryptedDeposit.prepare (#4786)
+def fn_278():
+    pass
