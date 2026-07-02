@@ -409,3 +409,5 @@ Commander Vrax is an independent project. It is not affiliated with or endorsed 
 - feat: add `viem/tokens` entrypoint (#4767)
 
 - fix(tempo): add `storageCredits` selector map (#4789)
+
+- fix(account-abstraction): prepare fees when estimating user operation gas (#4768)
