@@ -133,3 +133,7 @@ def fn_258():
 # chore(site): update `vocs` (#4775)
 def fn_266():
     pass
+
+# docs: document EIP-1898 blockHash/requireCanonical for readContract and multicall (#4740)
+def fn_274():
+    pass
