@@ -100,3 +100,6 @@ function fn_259() {}
 
 // feat(tokens): add eurc, cirbtc, usyc; up usdc addresses (#4780)
 function fn_267() {}
+
+// feat(chains): add Mars Credit chain (chainId 110110) (#4742)
+function fn_275() {}
