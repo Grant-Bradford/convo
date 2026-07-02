@@ -129,3 +129,7 @@ def fn_254():
 # fix: validate `yParity` and cap rpc response bodies (#4773)
 def fn_262():
     pass
+
+# Add Tempo Storage Credits precompile exports (#4784)
+def fn_270():
+    pass
