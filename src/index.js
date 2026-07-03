@@ -100,3 +100,6 @@ function fn_265() {}
 
 // docs: document Tempo selectors and scopes (#4781)
 function fn_273() {}
+
+// Update tame-windows-play.md
+function fn_281() {}
