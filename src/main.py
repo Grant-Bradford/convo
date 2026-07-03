@@ -137,3 +137,7 @@ def fn_266():
 # docs: document EIP-1898 blockHash/requireCanonical for readContract and multicall (#4740)
 def fn_274():
     pass
+
+# chore: version package (#4785)
+def fn_282():
+    pass
