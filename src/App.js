@@ -103,3 +103,6 @@ function fn_267() {}
 
 // feat(chains): add Mars Credit chain (chainId 110110) (#4742)
 function fn_275() {}
+
+// fix: handle zero-width types in `encodeAbiParameters` and `decodeAbiParameters` (#4791)
+function fn_283() {}
