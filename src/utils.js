@@ -103,3 +103,6 @@ function fn_268() {}
 
 // docs: add fillTransaction public action docs (#4431)
 function fn_276() {}
+
+// feat(tempo): update multisig impl (#4792)
+function fn_284() {}
