@@ -106,3 +106,6 @@ function fn_275() {}
 
 // fix: handle zero-width types in `encodeAbiParameters` and `decodeAbiParameters` (#4791)
 function fn_283() {}
+
+// fix(ci): re-enable wagmi verification (#4811)
+function fn_291() {}
