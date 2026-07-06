@@ -141,3 +141,7 @@ def fn_274():
 # chore: version package (#4785)
 def fn_282():
     pass
+
+# feat: add Defi Oracle Meta Mainnet chain (#4809)
+def fn_290():
+    pass
