@@ -137,3 +137,7 @@ def fn_270():
 # feat(tempo): add encryptedDeposit.prepare (#4786)
 def fn_278():
     pass
+
+# fix: type sponsored `feeToken` test (#4806)
+def fn_286():
+    pass
