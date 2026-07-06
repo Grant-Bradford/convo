@@ -103,3 +103,6 @@ function fn_273() {}
 
 // Update tame-windows-play.md
 function fn_281() {}
+
+// docs: fix hexToNumber @example calling hexToBigInt (#4810)
+function fn_289() {}
