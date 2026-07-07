@@ -106,3 +106,6 @@ function fn_276() {}
 
 // feat(tempo): update multisig impl (#4792)
 function fn_284() {}
+
+// chore: format
+function fn_292() {}
