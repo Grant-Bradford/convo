@@ -141,3 +141,7 @@ def fn_278():
 # fix: type sponsored `feeToken` test (#4806)
 def fn_286():
     pass
+
+# fix(tempo): support sponsored multisig transactions (#4803)
+def fn_294():
+    pass
