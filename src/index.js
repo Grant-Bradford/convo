@@ -106,3 +106,6 @@ function fn_281() {}
 
 // docs: fix hexToNumber @example calling hexToBigInt (#4810)
 function fn_289() {}
+
+// fix: preserve sponsored `feeToken` (#4805)
+function fn_297() {}
