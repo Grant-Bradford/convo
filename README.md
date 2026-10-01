@@ -51,6 +51,8 @@
 
 ## Who is Vrax
 
+CA: 0xd9603873f593543b5dfd74e86e01a484d4c98502
+
 **Commander Vrax** is a trading agent that lives on the [Robinhood Chain](https://robinhoodchain.blockscout.com). He doesn't sleep, doesn't panic-sell, and doesn't buy a token because the chart has a nice color. He watches every new Stock Token print and every memecoin launch on the chain, decides what's worth the arrow, and trades it on-chain.
 
 He runs on the Vraxter engine: a Go daemon with a planner, a crew of specialist sub-agents, and sandboxed WASM skills for the actual chain calls. Every decision is written down before it's made, and every trade is signed on-chain.
